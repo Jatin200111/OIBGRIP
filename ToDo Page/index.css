@@ -6,7 +6,12 @@
 }
 body{
     height: 100vh;
-    background: #066acd;
+    background: white;
+}
+h1{
+left: 40%;
+position: absolute;
+ font-family: 'Poppins',sans-serif;
 }
 .container{
     width: 40%;
